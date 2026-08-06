@@ -10,4 +10,6 @@ wheels/
 .venv
 .env
 
+# 작업 결과물 폴더 업로드 제외
 source/*
+model/*
